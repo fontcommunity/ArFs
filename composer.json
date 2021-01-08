@@ -1,0 +1,14 @@
+{
+    "name": "root/ar-fs",
+    "description": "Arweave File system for Font.community",
+    "authors": [
+        {
+            "name": "quardz",
+            "email": "adal@quardz.com"
+        }
+    ],
+    "require": {
+        "arweave/arweave-sdk": "^0.4.0",
+        "aws/aws-sdk-php": "^3.171"
+    }
+}
